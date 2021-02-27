@@ -1,1 +1,2 @@
-# project2000
+# collisionAlgorithm
+Algorithm to detect collision between two objects
